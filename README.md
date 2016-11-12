@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/FrozenKP/go-mcpi-api.svg?branch=master](https://travis-ci.org/FrozenKP/go-mcpi-api)
 [![GoDoc](https://godoc.org/github.com/FrozenKP/go-mcpi-api?status.svg)](https://godoc.org/github.com/FrozenKP/go-mcpi-api)
 
 中文版本README: [用go語言翻轉Minecraft - go-mcpi-api](http://holacode.blogspot.tw/2016/08/go-gominecraft-go-mcpi-api.html)
