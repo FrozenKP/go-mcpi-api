@@ -5,7 +5,7 @@ and commands are sent over channels, making it safe to use the API from differen
 Example:
 
 	var c mcpiapi.Connection
-	c.Open("192.168.1.115")
+	c.Open("192.168.1.115","player1")
 	defer c.Close()
 
 	go func() { c.Chat().Post("Hello, World!") }()
